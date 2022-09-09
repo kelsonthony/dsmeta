@@ -1,3 +1,8 @@
-https://devsuperior.com.br/evento-sds?episodio=1
+# Full Stack Project
+## Backend SpringBoot
+## Frontend React with TypeScript
 
-https://github.com/devsuperior/sds-dsmeta/tree/main/episodio1
+
+URL https://dsmeta-kelsonthony.netlify.app/ 
+
+![image](https://user-images.githubusercontent.com/7318326/189382579-a470e725-8e53-4667-98c2-59f8fc08317a.png)
